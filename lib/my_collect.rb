@@ -1,4 +1,6 @@
 def my_collect(array)
+  #just hand built the collect method to understand what happens
+  #behind the scenes
   i = 0
   new_collection = []
   
